@@ -97,7 +97,7 @@ export const en = {
       {
         "name": "Starter",
         "desc": "For one report at a time",
-        "price": "{{price_starter}}",
+        "price": "Free",
         "period": "per month",
         "features": [
           "3 research reports a month",
@@ -109,7 +109,7 @@ export const en = {
       {
         "name": "Growth",
         "desc": "For teams researching weekly",
-        "price": "{{price_growth}}",
+        "price": "$19",
         "period": "per month",
         "features": [
           "Unlimited reports",
@@ -121,7 +121,7 @@ export const en = {
       {
         "name": "Scale",
         "desc": "For research across a whole org",
-        "price": "{{price_scale}}",
+        "price": "$49",
         "period": "per month",
         "features": [
           "Shared source libraries",
@@ -335,7 +335,7 @@ export const ar = {
       {
         "name": "البداية",
         "desc": "لتقرير واحد في كل مرة",
-        "price": "{{price_starter}}",
+        "price": "مجاني",
         "period": "شهريا",
         "features": [
           "3 تقارير بحث شهريا",
@@ -347,7 +347,7 @@ export const ar = {
       {
         "name": "النمو",
         "desc": "للفرق التي تبحث أسبوعيا",
-        "price": "{{price_growth}}",
+        "price": "$19",
         "period": "شهريا",
         "features": [
           "تقارير غير محدودة",
@@ -359,7 +359,7 @@ export const ar = {
       {
         "name": "التوسع",
         "desc": "للبحث عبر مؤسسة كاملة",
-        "price": "{{price_scale}}",
+        "price": "$49",
         "period": "شهريا",
         "features": [
           "مكتبات مصادر مشتركة",
